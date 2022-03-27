@@ -11,6 +11,7 @@
   inputs.src-nimly-v0_2_0.ref   = "refs/tags/v0.2.0";
   inputs.src-nimly-v0_2_0.owner = "loloicci";
   inputs.src-nimly-v0_2_0.repo  = "nimly";
+  inputs.src-nimly-v0_2_0.dir   = "";
   inputs.src-nimly-v0_2_0.type  = "github";
   
   inputs."patty".owner = "nim-nix-pkgs";
