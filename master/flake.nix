@@ -11,7 +11,6 @@
   inputs.src-nimly-master.ref   = "refs/heads/master";
   inputs.src-nimly-master.owner = "loloicci";
   inputs.src-nimly-master.repo  = "nimly";
-  inputs.src-nimly-master.dir   = "";
   inputs.src-nimly-master.type  = "github";
   
   inputs."patty".owner = "nim-nix-pkgs";
